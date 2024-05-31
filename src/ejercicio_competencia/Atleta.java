@@ -6,7 +6,7 @@ package ejercicio_competencia;
 
 /**
  *
- * @author INTEL CORE I3
+
  */
 public class Atleta {
   
